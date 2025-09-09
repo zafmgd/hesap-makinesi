@@ -33,7 +33,7 @@ Python ve Tkinter ile geliştirilmiş, modern arayüzlü, tema değiştirebilen 
 ## 🛠️ Kurulum ve Gereksinimler
 
 ### Gerekli Kütüphaneler
-```bash
+
 pip install tkinter
 pip install pyinstaller
 
